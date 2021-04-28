@@ -10,28 +10,28 @@ Each repository represents an assignment. I will propably not update any of them
 
 * **1st Year** <img src="img/mangi.png" alt="mangi" width="32"/>
   * First Semester
-    1) Caclulus I
-    2) Introduction To Programming [C++]
-    3) Introduction To Computer Science [Python]
-    4) Logic Design Of Digital Systems
+    1) Caclulus I  ✅
+    2) Introduction To Programming [C++]  ✅
+    3) Introduction To Computer Science [Python]  ✅
+    4) Logic Design Of Digital Systems  ❌
     5) Mathematics For Computer Science
-    6) Internet Technologies [HTML/CSS/JS/PHP]
+    6) Internet Technologies [HTML/CSS/JS/PHP]  ✅
 
   * Sedond Semester
-    1) Caclulus II
-    2) Object Oriented Programming in Java
-    3) Discrete Mathematics
-    4) Data Structures in C++
-    5) Applied Algebra
-    6) Computer Architecture [Assembly]
+    1) Caclulus II  ❌
+    2) Object Oriented Programming in Java  ✅
+    3) Discrete Mathematics  ✅
+    4) Data Structures in C++  ❌
+    5) Applied Algebra  ❌
+    6) Computer Architecture [Assembly]  ❌
 
 * **2nd Year** <img src="img/open_book.png" alt="open_book" width="32"/>
   * Third Semester
-    1) Object Oriented Application Development [C# .Net Framework]
-    2) Operating Systems [C]
-    3) Mathematical Programming[Linear Programming]
-    4) Compilers [C/C++]
-    5) Probability And Statistics
+    1) Object Oriented Application Development [C# .Net Framework]  ✅
+    2) Operating Systems [C]  ✅
+    3) Mathematical Programming[Linear Programming]  ❌
+    4) Compilers [C/C++]  ✅
+    5) Probability And Statistics  ✅
     6) Applications Of Graph Theory
 
   * Fourth Semester
