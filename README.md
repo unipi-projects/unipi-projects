@@ -44,7 +44,20 @@ Each repository represents an assignment. I will propably not update any of them
 
 * **3d Year** <img src="img/laptop.png" alt="laptop" width="32"/>
   * Fifth Semester
+    1) Human Computer Interaction
+    2) Pattern Recognition
+    3) Information Systems
+    4) Scientific Writing In Education
+    5) Database Managment Systems
+    6) Programming Logic [Prolog]
+  
   * Sixth Semester
+    1) Artificial Intelligence
+    2) Software Engineering
+    3) Bioinformatics
+    4) Natural Language Processing
+    5) Multimedia Systems
+
 * **4th Year** <img src="img/graduation.png" alt="graduation" width="32"/>
   * Seventh Semester
   * Eighth
