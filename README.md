@@ -12,7 +12,7 @@
     2) Αρχές Προγραμματισμού [C++]  :heavy_check_mark:
     3) Εισαγωγή στην Επιστήμη των Υπολογιστών [Python]   :heavy_check_mark:
     4) Λογική Σχεδίαση  ❌
-    5) Μαθηματικά Υπολογιστών
+    5) Μαθηματικά Υπολογιστών    :heavy_check_mark:
     6) Τεχνολογίες Διαδικτύου [HTML/CSS/JS/PHP]   :heavy_check_mark:
 
   * Sedond Semester
@@ -66,24 +66,3 @@
   * Eighth Semester
   
   
-
-
-
-<!--[Alt text](img/university.png "a title")-->
-
-
-
-<!--
-**unipi-projects/unipi-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
