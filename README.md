@@ -8,25 +8,25 @@
 
 * **1st Year** <img src="img/mangi.png" alt="mangi" width="32"/>
   * First Semester
-    1) Ανάλυση I  :heavy_check_mark:
+    1) <img src="img/calculus_logo.png" alt="calculus_logo" width="24"/> Ανάλυση I  :heavy_check_mark:
     2) Αρχές Προγραμματισμού [C++]  :heavy_check_mark:
-    3) Εισαγωγή στην Επιστήμη των Υπολογιστών [Python]   :heavy_check_mark:
+    3) <img src="img/python_logo.png" alt="python_logo" width="24"/> Εισαγωγή στην Επιστήμη των Υπολογιστών [Python]   :heavy_check_mark:
     4) Λογική Σχεδίαση  ❌
-    5) Μαθηματικά Υπολογιστών    :heavy_check_mark:
-    6) Τεχνολογίες Διαδικτύου [HTML/CSS/JS/PHP]   :heavy_check_mark:
+    5) <img src="img/math_ypol_logo.png" alt="math_ypol_logo" width="24"/> Μαθηματικά Υπολογιστών    :heavy_check_mark:
+    6) <img src="img/networks_logo.png" alt="networks_logo" width="24"/> Τεχνολογίες Διαδικτύου [HTML/CSS/JS/PHP]   :heavy_check_mark:
 
   * Sedond Semester
-    1) Ανάλυση II  ❌
+    1) <img src="img/calculus_2_logo.png" alt="calculus_2_logo" width="24"/> Ανάλυση II  ❌
     2) Αντικειμενοστρεφής Προγραμματισμός [Java]   :heavy_check_mark:
     3) Διακριτά Μαθηματικά   :heavy_check_mark:
     4) Δομές Δεδομένων [C++]  ❌
     5) Εφαρμοσμένη Άλγεβρα  ❌
-    6) Αρχιτεκτονική Υπολογιστών [Assembly]  ❌
+    6) <img src="img/asm_logo.png" alt="asm_logo" width="24"/> Αρχιτεκτονική Υπολογιστών [Assembly]  ❌
 
 * **2nd Year** <img src="img/open_book.png" alt="open_book" width="32"/>
   * Third Semester
     1) Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών [C# .Net Framework]   :heavy_check_mark:
-    2) Λειτουργικά Συστήματα [C/Bash]   :heavy_check_mark:
+    2) <img src="img/bash_logo.png" alt="bash_logo" width="24"/> Λειτουργικά Συστήματα [C/Bash]   :heavy_check_mark:
     3) Μαθηματικός Προγραμματισμός  ❌
     4) Μεταγλωττιστές [C/C++]   :heavy_check_mark:
     5) Πιθανότητες και Στατιστική   :heavy_check_mark:
