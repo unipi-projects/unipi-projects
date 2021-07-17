@@ -18,19 +18,19 @@
   * Sedond Semester
     1) <img src="img/calculus_2_logo.png" alt="calculus_2_logo" width="26"/> Ανάλυση II  ❌
     2) <img src="img/java_logo.png" alt="java_logo" width="26"/> Αντικειμενοστρεφής Προγραμματισμός [Java]   :heavy_check_mark:
-    3) Διακριτά Μαθηματικά   :heavy_check_mark:
-    4) Δομές Δεδομένων [C++]  ❌
-    5) Εφαρμοσμένη Άλγεβρα  ❌
+    3) <img src="img/discrete_math_logo.png" alt="discrete_math_logo" width="24"/> Διακριτά Μαθηματικά   :heavy_check_mark:
+    4) <img src="img/data_structure_logo.png" alt="data_structure_logo" width="26"/> Δομές Δεδομένων [C++]  ❌
+    5) <img src="img/linear_algebra_logo.png" alt="linear_algebra_logo" width="26"/> Εφαρμοσμένη Άλγεβρα  ❌
     6) <img src="img/computer_architecture_logo.png" alt="computer_architecture_logo" width="26"/> Αρχιτεκτονική Υπολογιστών [Assembly]  ❌
 
 * **2nd Year** <img src="img/open_book.png" alt="open_book" width="32"/>
   * Third Semester
-    1) Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών [C# .Net Framework]   :heavy_check_mark:
+    1) <img src="img/c#_logo.png" alt="c#_logo" width="26"/> Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών [C# .Net Framework]   :heavy_check_mark:
     2) <img src="img/bash_logo.png" alt="bash_logo" width="26"/> Λειτουργικά Συστήματα [C/Bash]   :heavy_check_mark:
-    3) Μαθηματικός Προγραμματισμός  ❌
-    4) Μεταγλωττιστές [C/C++]   :heavy_check_mark:
-    5) Πιθανότητες και Στατιστική   :heavy_check_mark:
-    6) Εφαρμογές Θεωρίας Γραφημάτων  :heavy_check_mark:
+    3) <img src="img/linear_programming_logo.png" alt="linear_programming_logo" width="26"/> Μαθηματικός Προγραμματισμός  ❌
+    4) <img src="img/compiler_logo.png" alt="compiler_logo" width="26"/> Μεταγλωττιστές [C/C++]   :heavy_check_mark:
+    5) <img src="img/probability_logo.png" alt="probability_logo" width="26"/> Πιθανότητες και Στατιστική   :heavy_check_mark:
+    6) <img src="img/graph_theory_logo.png" alt="graph_theory_logo" width="26"/> Εφαρμογές Θεωρίας Γραφημάτων  :heavy_check_mark:
 
   * Fourth Semester
     1) Αλγόριθμοι [C++]  ❓
