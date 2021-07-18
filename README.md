@@ -33,11 +33,11 @@
     6) <img src="img/graph_theory_logo.png" alt="graph_theory_logo" width="26"/> Εφαρμογές Θεωρίας Γραφημάτων  :heavy_check_mark:
 
   * Fourth Semester
-    1) Αλγόριθμοι [C++]  ❓
-    2) Αρχές και Εφαρμογές Σημάτων και Συστημάτων [Matlab]  ❓
+    1) <img src="img/algorithm_logo.png" alt="algorithm_logo" width="26"/> Αλγόριθμοι [C++]  ❓
+    2) <img src="img/signals_logo.png" alt="signals_logo" width="26"/> Αρχές και Εφαρμογές Σημάτων και Συστημάτων [Matlab]  ❓
     3) <img src="img/databases_logo.png" alt="databases_logo" width="26"/> Βάσεις Δεδομένων [SQL] ❓
-    4) Δίκτυα Υπολογιστών  ❓
-    5) Προγραμματισμός στο Διαδίκτυο και τον Παγκόσμιο Ιστό [Java]  ❓
+    4) <img src="img/nets_logo.png" alt="nets_logo" width="26"/> Δίκτυα Υπολογιστών  ❓
+    5) <img src="img/jsp_logo.png" alt="jsp_logo" width="26"/> Προγραμματισμός στο Διαδίκτυο και τον Παγκόσμιο Ιστό [Java]  ❓
     6) Πληροφορική στην Εκπαίδευση  ❓
 
 * **3d Year** <img src="img/laptop.png" alt="laptop" width="32"/>
