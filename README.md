@@ -38,7 +38,7 @@
     3) <img src="img/databases_logo.png" alt="databases_logo" width="26"/> Βάσεις Δεδομένων [SQL] ❓
     4) <img src="img/nets_logo.png" alt="nets_logo" width="26"/> Δίκτυα Υπολογιστών  ❓
     5) <img src="img/jsp_logo.png" alt="jsp_logo" width="26"/> Προγραμματισμός στο Διαδίκτυο και τον Παγκόσμιο Ιστό [Java]  ❓
-    6) Πληροφορική στην Εκπαίδευση  ❓
+    6) <img src="img/cs_education_logo.png" alt="cs_education_logo" width="26"/> Πληροφορική στην Εκπαίδευση  ❓
 
 * **3d Year** <img src="img/laptop.png" alt="laptop" width="32"/>
   * Fifth Semester
