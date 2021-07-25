@@ -35,7 +35,7 @@
   * Fourth Semester
     1) <img src="img/algorithm_logo.png" alt="algorithm_logo" width="26"/> Αλγόριθμοι [C++]  ❓
     2) <img src="img/signals_logo.png" alt="signals_logo" width="26"/> Αρχές και Εφαρμογές Σημάτων και Συστημάτων [Matlab]  ❓
-    3) <img src="img/databases_logo.png" alt="databases_logo" width="26"/> Βάσεις Δεδομένων [SQL] ❓
+    3) <img src="img/databases_logo.png" alt="databases_logo" width="26"/> Βάσεις Δεδομένων [SQL] :heavy_check_mark:
     4) <img src="img/nets_logo.png" alt="nets_logo" width="26"/> Δίκτυα Υπολογιστών  :heavy_check_mark:
     5) <img src="img/jsp_logo.png" alt="jsp_logo" width="26"/> Προγραμματισμός στο Διαδίκτυο και τον Παγκόσμιο Ιστό [Java] :heavy_check_mark:
     6) <img src="img/cs_education_logo.png" alt="cs_education_logo" width="26"/> Πληροφορική στην Εκπαίδευση  ❓
