@@ -2,7 +2,6 @@
 
 ### Welcome to my University  Account.
 
-<img src="img/university.png" alt="university" width="150"/> **University Of Piraus**
 
 ### Roadmap <img src="img/calendar.png" alt="calendar" width="32"/>
 
