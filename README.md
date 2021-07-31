@@ -19,7 +19,7 @@
     1) <img src="img/calculus_2_logo.png" alt="calculus_2_logo" width="26"/> Ανάλυση II  ❌
     2) <img src="img/java_logo.png" alt="java_logo" width="26"/> Αντικειμενοστρεφής Προγραμματισμός [Java]   :heavy_check_mark:
     3) <img src="img/discrete_math_logo.png" alt="discrete_math_logo" width="24"/> Διακριτά Μαθηματικά   :heavy_check_mark:
-    4) <img src="img/data_structure_logo.png" alt="data_structure_logo" width="26"/> Δομές Δεδομένων [C++]  ❌
+    4) <img src="img/data_structure_logo.png" alt="data_structure_logo" width="26"/> Δομές Δεδομένων [C++] :heavy_check_mark:
     5) <img src="img/linear_algebra_logo.png" alt="linear_algebra_logo" width="26"/> Εφαρμοσμένη Άλγεβρα  ❌
     6) <img src="img/computer_architecture_logo.png" alt="computer_architecture_logo" width="26"/> Αρχιτεκτονική Υπολογιστών [Assembly]  ❌
 
@@ -33,12 +33,12 @@
     6) <img src="img/graph_theory_logo.png" alt="graph_theory_logo" width="26"/> Εφαρμογές Θεωρίας Γραφημάτων  :heavy_check_mark:
 
   * Fourth Semester
-    1) <img src="img/algorithm_logo.png" alt="algorithm_logo" width="26"/> Αλγόριθμοι [C++]  ❓
-    2) <img src="img/signals_logo.png" alt="signals_logo" width="26"/> Αρχές και Εφαρμογές Σημάτων και Συστημάτων [Matlab]  ❓
+    1) <img src="img/algorithm_logo.png" alt="algorithm_logo" width="26"/> Αλγόριθμοι [C++] ❌
+    2) <img src="img/signals_logo.png" alt="signals_logo" width="26"/> Αρχές και Εφαρμογές Σημάτων και Συστημάτων [Matlab] :heavy_check_mark:
     3) <img src="img/databases_logo.png" alt="databases_logo" width="26"/> Βάσεις Δεδομένων [SQL] :heavy_check_mark:
     4) <img src="img/nets_logo.png" alt="nets_logo" width="26"/> Δίκτυα Υπολογιστών  :heavy_check_mark:
     5) <img src="img/jsp_logo.png" alt="jsp_logo" width="26"/> Προγραμματισμός στο Διαδίκτυο και τον Παγκόσμιο Ιστό [Java] :heavy_check_mark:
-    6) <img src="img/cs_education_logo.png" alt="cs_education_logo" width="26"/> Πληροφορική στην Εκπαίδευση  ❓
+    6) <img src="img/cs_education_logo.png" alt="cs_education_logo" width="26"/> Πληροφορική στην Εκπαίδευση :heavy_check_mark:
 
 * **3d Year** <img src="img/laptop.png" alt="laptop" width="32"/>
   * Fifth Semester
