@@ -8,7 +8,7 @@
 * **1st Year** <img src="img/mangi.png" alt="mangi" width="32"/>
   * First Semester
     1) <img src="img/calculus_logo.png" alt="calculus_logo" width="26"/> Ανάλυση I  :heavy_check_mark:
-    2) <img src="img/c++_logo.png" alt="c++_logo" width="26"/> Αρχές Προγραμματισμού [C++]  :heavy_check_mark:
+    2) <img src="img/c++_logo.png" alt="c++_logo" width="26"/> Αρχές Προγραμματισμού [C/C++]  :heavy_check_mark:
     3) <img src="img/python_logo.png" alt="python_logo" width="26"/> Εισαγωγή στην Επιστήμη των Υπολογιστών [Python]   :heavy_check_mark:
     4) <img src="img/logic_design_logo.png" alt="logic_design_logo" width="26"/> Λογική Σχεδίαση  ❌
     5) <img src="img/math_ypol_logo.png" alt="math_ypol_logo" width="26"/> Μαθηματικά Υπολογιστών    :heavy_check_mark:
