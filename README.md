@@ -15,7 +15,7 @@
     6) <img src="img/networks_logo.png" alt="networks_logo" width="26"/> Τεχνολογίες Διαδικτύου [HTML/CSS/JS/PHP]   :heavy_check_mark:
 
   * Sedond Semester
-    1) <img src="img/calculus_2_logo.png" alt="calculus_2_logo" width="26"/> Ανάλυση II  ❌
+    1) <img src="img/calculus_2_logo.png" alt="calculus_2_logo" width="26"/> Ανάλυση II  :heavy_check_mark:
     2) <img src="img/java_logo.png" alt="java_logo" width="26"/> Αντικειμενοστρεφής Προγραμματισμός [Java]   :heavy_check_mark:
     3) <img src="img/discrete_math_logo.png" alt="discrete_math_logo" width="24"/> Διακριτά Μαθηματικά   :heavy_check_mark:
     4) <img src="img/data_structure_logo.png" alt="data_structure_logo" width="26"/> Δομές Δεδομένων [C++] :heavy_check_mark:
