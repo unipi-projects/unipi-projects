@@ -48,7 +48,7 @@
     5) Συστήματα Διαχείρισης Βάσεων Δεδομένων [SQL Python]
     6) Λογικός Προγραμματισμός [Prolog] :heavy_check_mark:
     7) Λογισμικό Διαχείρισης Μάθησης [PHP] :heavy_check_mark:
-    8) Κρυπτογραφία [Python]
+    8) Κρυπτογραφία [Python] :heavy_check_mark:
   
   * Sixth Semester
     1) Τεχνητή Νοημοσύνη και Έμπειρα Συστήματα
