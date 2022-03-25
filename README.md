@@ -26,7 +26,7 @@
   * Third Semester
     1) <img src="img/c_sharp_logo.png" alt="c#_logo" width="28"/> Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών [C# .Net Framework]   :heavy_check_mark:
     2) <img src="img/bash_logo.png" alt="bash_logo" width="26"/> Λειτουργικά Συστήματα [C/Bash]   :heavy_check_mark:
-    3) <img src="img/linear_programming_logo.png" alt="linear_programming_logo" width="26"/> Μαθηματικός Προγραμματισμός  ❌
+    3) <img src="img/linear_programming_logo.png" alt="linear_programming_logo" width="26"/> Μαθηματικός Προγραμματισμός  :heavy_check_mark:
     4) <img src="img/compiler_logo.png" alt="compiler_logo" width="26"/> Μεταγλωττιστές [C/C++]   :heavy_check_mark:
     5) <img src="img/probability_logo.png" alt="probability_logo" width="26"/> Πιθανότητες και Στατιστική   :heavy_check_mark:
     6) <img src="img/graph_theory_logo.png" alt="graph_theory_logo" width="26"/> Εφαρμογές Θεωρίας Γραφημάτων  :heavy_check_mark:
