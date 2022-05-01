@@ -41,11 +41,11 @@
 
 * **3d Year** <img src="img/laptop.png" alt="laptop" width="32"/>
   * Fifth Semester
-    1) Αλληλεπίδραση Ανθρώπου και Υπολογιστή [C# .Net Framework]
+    1) Αλληλεπίδραση Ανθρώπου και Υπολογιστή [C# .Net Framework] :heavy_check_mark:
     2) Αναγνώριση Προτύπων [Matlab]  ❌
     3) Πληροφοριακά Συστήματα ❌
-    4) Επιστημονική Συγγραφή στην Εκπαίδευση
-    5) Συστήματα Διαχείρισης Βάσεων Δεδομένων [SQL Python]
+    4) Επιστημονική Συγγραφή στην Εκπαίδευση :heavy_check_mark:
+    5) Συστήματα Διαχείρισης Βάσεων Δεδομένων [SQL Python] :heavy_check_mark:
     6) Λογικός Προγραμματισμός [Prolog] :heavy_check_mark:
     7) Λογισμικό Διαχείρισης Μάθησης [PHP] :heavy_check_mark:
     8) Κρυπτογραφία [Python] :heavy_check_mark:
